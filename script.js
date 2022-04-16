@@ -1,1 +1,1 @@
-alert("AWESOME FEATURE");
+alert("Awesome feature");
